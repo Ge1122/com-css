@@ -1,0 +1,29 @@
+/**{
+    outline: 1px solid red;
+}*/
+html{
+    background: black;
+}
+.titulo{
+    height: 250px; 
+
+}
+.caracteristicas{
+    color: darkgoldenrod;
+
+}
+.img{
+margin-left: 145px;
+border-radius: 50%;
+box-shadow: 0 0 303px 10px rgb(131, 131, 20);
+
+}
+.jogabilidade{
+    color: darkgoldenrod;
+}
+.operadores{
+    color: darkgoldenrod;
+}
+footer{
+    color: darkgoldenrod;
+}
